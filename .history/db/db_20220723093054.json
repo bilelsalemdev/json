@@ -1,0 +1,36 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "bilel salem",
+            "age": 21,
+            "body":"  Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat velit facilis cum et culpa totam quas, aspernatur in corporis eius illum voluptatibus reprehenderit consequatur praesentium ut quisquam doloribus ullam nihil!" 
+        },
+        {
+            "id": 2,
+            "title": "yassine salem",
+            "age": 19,
+            "body": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat velit facilis cum et culpa totam quas, aspernatur in corporis eius illum voluptatibus reprehenderit consequatur praesentium ut quisquam doloribus ullam nihil!"
+        },
+        {
+            "id": 3,
+            "title": "mounira rhaiem",
+            "age": 51,
+            "body": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat velit facilis cum et culpa totam quas, aspernatur in corporis eius illum voluptatibus reprehenderit consequatur praesentium ut quisquam doloribus ullam nihil!"
+        }
+    ],
+    "polls": [
+        {
+            "id": 1,
+            "title": "how to deal with json"
+        },
+        {
+            "id": 2,
+            "title": "how to make a responsive website"
+        },
+        {
+            "id": 3,
+            "title": "how to add a new blog"
+        }
+    ]
+}

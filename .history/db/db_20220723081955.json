@@ -1,0 +1,33 @@
+{
+    "posts":[
+        {
+            "id":1,
+            "title":"bilel salem",
+            "age":21
+        },
+        {
+            "id":2,
+            "title":"yassine salem",
+            "age":19
+        },
+        {
+            "id":1,
+            "title":"mounira rhaiem",
+            "age":51
+        }
+    ],
+    "polls":[
+        {
+            "id":1,
+            "title":"how to deal with json"
+        },
+        {
+            "id":2,
+            "title":"how to make a responsive website"
+        },
+        {
+            "id":3,
+            "title":"how to add a new blog"
+        }
+    ]
+}
